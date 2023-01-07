@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+}
+
+.header{
+    text-align: right;
+    margin-right: 10%; 
+    margin-top: 0 px;
+}
+.box{
+
+    height: 25px;
+    width: 70px;
+    background-color: #ff4500;
+    padding: 5px;
+    color: white;
+    margin-left: 84%;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+section{
+    background-image: url('images/banner/banner1.png');
+    height:700px;
+}
+.h1{
+    font-weight: 800;
+    font-size: 40px;
+}
+.h2{
+    color: gray;
+}
+ 
+.second{
+    margin-top: 130px;
+    
+}
+.flex{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 12%;
+    gap: 170px;
+  }
+  
+     
+  
+  .list{
+    margin-top: 5px;
+    color: gray;
+    list-style: none;
+    
+  
+  }
+  .class1{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bolder;
+    
+  }
+  .box1{
+    /* background-color: aqua; */
+    height: 200px;
+    width: 200px;
+    
+     
+     background-repeat: no-repeat;
+     text-align: center;
+      
+    
+  }
+   
+  .box2{
+    /* background-color: aqua; */
+    height: 200px;
+    width: 200px;
+    
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .box3{
+    /* background-color: aqua; */
+    height: 200px;
+    width: 200px;
+     
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .box4{
+    /* background-color: aqua; */
+    height: 200px;
+    width: 200px;
+     
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .class3{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 20%;
+    margin-right: 10%;
+    gap: 20px;
+  }
+  .bold{
+    font-size: 22px;  
+  }
+  .new-box{
+    height: 180px;
+    width: 900px;
+    /* background-image: url('images/watch.png'); */
+    margin-left: 220px;
+    margin-top: 150px;
+    background: linear-gradient(to right, hsl(24, 100%, 50%), hsl(24deg 100% 50% / 0%)), url(images/watch.png);
+    
+  }
+  .class4{
+    margin-left: 100px;
+    color: white;
+  }
+  .box5{
+    color: orangered;
+    margin-top: 15px;
+     height: 30px;
+     width: 100px;
+     background-color:white;
+     text-align: center;
+     border-radius: 5px;
+     padding-top: 9px;
+
+       }
+.footer{
+        display: flex;
+        background-color: black;
+        color: white;
+        margin-left: 300px;
+        gap: 200px;
+        margin-top: 50px;
+        padding-top: 100px;
+       }
+.last{
+    background-color: black;
+    height: 400px;
+}
+.box6{
+     
+    color:gray;
+     
+     border-style:solid;
+     font-size: small;
+     width: 150px;
+     border-radius: 5px;
+     padding-left: 30px;
+     padding-top: 12px;
+
+     
+}
+ input{
+    color: white;
+    background-color: black;
+    height: 35px;
+    padding-left: 20px;
+    border-radius: 5px;border-style: solid;
+
+ }
